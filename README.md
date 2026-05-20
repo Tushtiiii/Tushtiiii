@@ -8,7 +8,6 @@ Building clean apps with smooth UI, scalable backend systems, and lots of debugg
 
 </div>
 
----
 
 # 🚀 Currently Working On
 
@@ -16,7 +15,7 @@ Building clean apps with smooth UI, scalable backend systems, and lots of debugg
 ![Full Stack](https://img.shields.io/badge/Full_Stack-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![System Design](https://img.shields.io/badge/System_Design-000000?style=for-the-badge&logo=serverfault&logoColor=white)
 
----
+
 
 # 🧩 Tech Stack
 
@@ -28,7 +27,6 @@ Building clean apps with smooth UI, scalable backend systems, and lots of debugg
 ![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=yellow)
 
----
 
 ## ⚙️ Backend
 
@@ -36,21 +34,20 @@ Building clean apps with smooth UI, scalable backend systems, and lots of debugg
 ![ExpressJS](https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-111111?style=for-the-badge&logo=fastapi&logoColor=white)
 
----
 
 ## 🗄️ Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=336791)
 
----
+
 
 ## 🧠 Languages
 
 ![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=orange)
 ![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus&logoColor=00599C)
 
----
+
 
 ## 🛠️ Tools
 
@@ -58,7 +55,6 @@ Building clean apps with smooth UI, scalable backend systems, and lots of debugg
 ![Postman](https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman&logoColor=FF6C37)
 ![VS Code](https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 
----
 
 # 📊 GitHub Stats
 
@@ -72,7 +68,7 @@ Building clean apps with smooth UI, scalable backend systems, and lots of debugg
 
 </div>
 
----
+
 
 # 😄 LeetCode
 
@@ -82,7 +78,7 @@ Building clean apps with smooth UI, scalable backend systems, and lots of debugg
 
 </div>
 
----
+
 
 # 🌐 Connect With Me
 
@@ -96,7 +92,7 @@ Building clean apps with smooth UI, scalable backend systems, and lots of debugg
 
 [![Gmail](https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:tushteekothare@gmail.com)
 
----
+
 
 <div>
 
